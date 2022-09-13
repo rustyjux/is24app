@@ -2,7 +2,7 @@
 
 ## Installation
 - install Java 8 (available from https://www.java.com/en/download/manual.jsp)
-- run install.bat **as administrator** 
+- run install.bat **as administrator** (in `/geoserver_install`)
 
 This batch script:
 - downloads the latest stable build in platform independent binary form from SourceForge
